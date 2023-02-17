@@ -21,7 +21,7 @@ ap_if = network.WLAN(network.AP_IF)
 if not sta_if.isconnected():         
     print('connecting to network...')        
     sta_if.active(True)         
-    sta_if.connect('NAJIM', '46198994')
+    sta_if.connect('WIFI-SSID', 'WIFI-PASSWORD')
     while not sta_if.isconnected():
         print("waiting for wifi connection...",sta_if.status())
         time.sleep(1)
