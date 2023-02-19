@@ -1,5 +1,5 @@
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DlywE2AIaYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DlywE2AIaYo/0.jpg)](https://www.youtube.com/watch?v=DlywE2AIaYo)
 
 # esp8266-voice-controlled-led
 A fun IOT project to control an esp8266 IOT device using voice command
