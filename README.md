@@ -1,8 +1,8 @@
-# Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DlywE2AIaYo/0.jpg)](https://www.youtube.com/watch?v=DlywE2AIaYo)
-
 # esp8266-voice-controlled-led
 A fun IOT project to control an esp8266 IOT device using voice command
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DlywE2AIaYo/0.jpg)](https://www.youtube.com/watch?v=DlywE2AIaYo)
+
 
 ## Installing the driver
 - https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
