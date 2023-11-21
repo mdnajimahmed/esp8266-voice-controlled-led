@@ -5,6 +5,8 @@ A fun IOT project to control an esp8266 IOT device using voice command
 
 https://github.com/mdnajimahmed/esp8266-voice-controlled-led/assets/10337014/21c412ef-583f-4609-981c-b7640c73c216
 
+## Architecture 
+<img width="716" alt="image" src="https://github.com/mdnajimahmed/esp8266-voice-controlled-led/assets/10337014/fec93f99-fd26-4d7c-be65-df9a9e33f4f0">
 
 
 ## Installing the driver
